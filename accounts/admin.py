@@ -11,7 +11,7 @@ class Accountadmin (UserAdmin):
     readonly_fields=['date_joined','last_login']
     ordering=['-date_joined']
 
-    #these fields are required by deafault when we create custom admin panel
+    #these fields are required by default when we create custom admin panel
     list_filter=()
     filter_horizontal=()
     fieldsets=()
