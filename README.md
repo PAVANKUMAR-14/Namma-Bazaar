@@ -14,4 +14,4 @@ This Django-based e-commerce project is designed to provide users with a seamles
 - **Payment Confirmation**: After successful payment, users receive an automated email containing their order number for reference.
 
 ### User Experience
-- **User-Friendly Profile Dashboards**: Provides users with a comprehensive dashboard to manage their profiles, view order history, and track deliveries.
+- **User-Friendly Profile Dashboards**: Provides users with a comprehensive dashboard to manage their profiles, view order history, and also to change passwords.
