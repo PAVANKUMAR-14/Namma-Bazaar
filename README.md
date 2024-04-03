@@ -20,9 +20,8 @@ GreatKart is an eCommerce application built with Python Django Framework. Some o
 
 1. Clone the repository [Click here to clone](
 https://github.com/PAVANKUMAR-14/Namma-Bazaar.git)
-://github.com/dev-rathankumar/greatkart-pre-deploy.git`
-2. Navigrate to the working directory `cd greatkart-pre-deploy`
-3. Open the project from the code editor `code .` or `atom .`
+2. Navigrate to the working directory `cd Namma_bazaar`
+3. Open the project from the code editor `code .` 
 4. Create virtual environment `python -m venv django`
 5. Activate the virtual environment `source django/Scripts/activate`
 6. Install required packages to run the project `pip install -r requirements.txt`
