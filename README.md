@@ -55,3 +55,16 @@ https://github.com/PAVANKUMAR-14/Namma-Bazaar.git)
     ```
 12. Login to admin panel - (`http://127.0.0.1:8000/securelogin/`)
 13. Add categories, products, add variations, register user, login, place orders and EXPLORE SO MANY FEATURES
+
+## Technologies Used
+
+- Python
+- Django
+- HTML/CS
+- Bootstrap 
+- JavaScript
+- SQLite (by default, but can be configured for other databases like PostgreSQL)
+
+## Credits
+
+This project was developed by Pavan Kumar.
