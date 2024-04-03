@@ -16,7 +16,8 @@ GreatKart is an eCommerce application built with Python Django Framework. Some o
 ### User Experience
 - **User-Friendly Profile Dashboards**: Provides users with a comprehensive dashboard to manage their profiles, view order history, and also to change passwords.
 
-## Installation 
+## Installation instructions 
 
 1. Clone the repository [Click here to clone](
 https://github.com/PAVANKUMAR-14/Namma-Bazaar.git)
+2. 2. **Navigate to the working directory:** ''' cd Namma_bazaar '''
